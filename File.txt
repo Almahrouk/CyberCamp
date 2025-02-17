@@ -1,1 +1,2 @@
 This my first public repo in GitHub.
+Welcome in CyberCamp 6.
